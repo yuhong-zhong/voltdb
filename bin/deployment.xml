@@ -1,0 +1,1 @@
+<deployment><cluster></cluster><systemsettings><query timeout="1000000000"/><temptables maxsize="1000000000"/></systemsettings></deployment>
